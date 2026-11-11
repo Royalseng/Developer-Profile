@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract developer portrait</title>
+  <desc id="desc">A friendly illustrated profile portrait with a dark curly hairstyle on a warm coral and cream background.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f6b69d"/><stop offset="1" stop-color="#f6dfbd"/></linearGradient></defs>
+  <rect width="480" height="480" rx="42" fill="url(#bg)"/>
+  <circle cx="385" cy="95" r="35" fill="#e88161" opacity=".7"/><circle cx="76" cy="360" r="48" fill="#e88161" opacity=".35"/>
+  <path d="M105 480c12-96 68-145 135-145s123 49 135 145" fill="#243b38"/>
+  <path d="M168 300h144v85c-38 45-105 45-144 0z" fill="#d99170"/>
+  <ellipse cx="240" cy="207" rx="111" ry="126" fill="#b97858"/>
+  <path d="M130 210c-22-82 23-157 104-166 67-8 126 40 121 111-21-19-39-45-48-69-29 34-91 49-162 43 5 29 1 56-15 81z" fill="#263535"/>
+  <path d="M154 197c16-13 37-13 52 0m69 0c16-13 37-13 52 0" fill="none" stroke="#263535" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="184" cy="218" r="6" fill="#263535"/><circle cx="295" cy="218" r="6" fill="#263535"/>
+  <path d="M220 276c13 12 28 12 41 0" fill="none" stroke="#713f36" stroke-width="7" stroke-linecap="round"/>
+  <path d="M193 346l47 39 47-39" fill="#f7eee1"/><path d="m222 378 18 20 18-20-18-16z" fill="#e88161"/>
+</svg>
